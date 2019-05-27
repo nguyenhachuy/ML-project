@@ -1,0 +1,170 @@
+WILL_ATTACH_IN_60
+BILLING_PLAN_ID
+CC_FEE
+ASP
+ORGSIZE
+BANK_CONNECTED
+BANK_VERIFIED
+CREATED
+SCHEDULED
+OMW
+STARTED
+IN_PROGRESS
+ESTIMATED
+INVOICED
+TOTALPAYMENT_COUNT
+TOTALPAYMENT_AMOUNT
+ONLINE_BOOKINGS
+CC_COUNT
+CC_AMOUNT
+INSTAPAY_AMOUNT
+ACH_COUNT
+CASH_COUNT
+CASH_AMOUNT
+CHECK_COUNT
+CHECK_AMOUNT
+OTHER_COUNT
+DAYS_SINCE_ENROLLMENT
+REASON_TO_ADOPT
+CC_COUNT_ALL
+AVG_TIME_TO_PAYMENT
+COMMITMENTS_ALL
+COMMITMENTS
+CC_PERC
+CASH_PERC
+CHECK_PERC
+OTHER_PERC
+ACH_PERC
+PLAN_TIER_small
+PLAN_TIER_medium
+PLAN_TIER_starter
+PLAN_TIER_tiny
+PLAN_TIER_trial
+INDUSTRY_Accountant
+INDUSTRY_Air Duct Cleaning
+INDUSTRY_Alternative Therapy
+INDUSTRY_Appliances
+INDUSTRY_Appraisal
+INDUSTRY_Audio & TV
+INDUSTRY_Automotive
+INDUSTRY_Barber
+INDUSTRY_Business Services
+INDUSTRY_Cabinetry
+INDUSTRY_Carpet Cleaning
+INDUSTRY_Carpet Repair
+INDUSTRY_Christmas Lights
+INDUSTRY_Concrete & Asphalt
+INDUSTRY_Cooking
+INDUSTRY_Credit Counselor
+INDUSTRY_Deck & Patio
+INDUSTRY_Demolition
+INDUSTRY_Device Repair
+INDUSTRY_Doors
+INDUSTRY_Drywall
+INDUSTRY_Electrical
+INDUSTRY_Fencing
+INDUSTRY_Financial Planner
+INDUSTRY_Fireplace & Chimney
+INDUSTRY_Fitness
+INDUSTRY_Fleets & Trucks
+INDUSTRY_Flooring
+INDUSTRY_Furniture & Upholstery
+INDUSTRY_Garage
+INDUSTRY_General Contractor
+INDUSTRY_Glass
+INDUSTRY_Graphics & Printing
+INDUSTRY_Gutters
+INDUSTRY_Handyman
+INDUSTRY_Health & Beauty
+INDUSTRY_Heating & Air Conditioning
+INDUSTRY_Home Cleaning
+INDUSTRY_Home Inspection
+INDUSTRY_Install & Assemble
+INDUSTRY_Insurance
+INDUSTRY_Interior & Surface Cleaning
+INDUSTRY_Janitorial
+INDUSTRY_Junk Removal
+INDUSTRY_Landscaping & Lawn
+INDUSTRY_Laundry
+INDUSTRY_Lighting
+INDUSTRY_Locksmith
+INDUSTRY_Marine Services
+INDUSTRY_Massage
+INDUSTRY_Medical
+INDUSTRY_Moving
+INDUSTRY_Music & Singing
+INDUSTRY_Natural Stone
+INDUSTRY_Neighborhood Chores
+INDUSTRY_Notary
+INDUSTRY_Organization & Interior Design
+INDUSTRY_Painting
+INDUSTRY_Parties
+INDUSTRY_Pest Control
+INDUSTRY_Pets
+INDUSTRY_Photography
+INDUSTRY_Plumbing
+INDUSTRY_Pool & Spa
+INDUSTRY_Property Manager
+INDUSTRY_Real Estate
+INDUSTRY_Refrigeration
+INDUSTRY_Regulatory & Environmental
+INDUSTRY_Restoration
+INDUSTRY_Roof & Attic
+INDUSTRY_Rug Cleaning
+INDUSTRY_Security
+INDUSTRY_Sewer & Septic
+INDUSTRY_Siding
+INDUSTRY_Smart Home
+INDUSTRY_Snow Removal
+INDUSTRY_Solar & Energy
+INDUSTRY_Tax Planner
+INDUSTRY_Tech Help
+INDUSTRY_Tile & Grout
+INDUSTRY_Title
+INDUSTRY_Transportation
+INDUSTRY_Tree Services
+INDUSTRY_Tutoring
+INDUSTRY_Water Heater
+INDUSTRY_Water Treatment
+INDUSTRY_Well Pumps
+INDUSTRY_Wildlife Control
+INDUSTRY_Window & Exterior Cleaning
+INDUSTRY_Windows
+INDUSTRY_Wine
+INDUSTRY_missing
+STAGENAME_PRODUCT_Closed Lost_ACH Attach:
+STAGENAME_PRODUCT_Closed Lost_CC Attach:
+STAGENAME_PRODUCT_Closed Lost_CC Attach: ACH Attach:
+STAGENAME_PRODUCT_Closed Lost_CC Attach: Card Reader:
+STAGENAME_PRODUCT_Closed Lost_CC Attach: Instapay Attach:
+STAGENAME_PRODUCT_Closed Lost_CC Usage:
+STAGENAME_PRODUCT_Closed Lost_CC Usage: CC Attach:
+STAGENAME_PRODUCT_Closed Lost_CC Usage: Instapay Attach:
+STAGENAME_PRODUCT_Closed Lost_Instapay Attach:
+STAGENAME_PRODUCT_Coaching Attended_CC Usage:
+STAGENAME_PRODUCT_Coaching Attended_CC Usage: CC Attach: Instapay Attach:
+STAGENAME_PRODUCT_Coaching Attended_Instapay Attach:
+STAGENAME_PRODUCT_Committed_ACH Attach:
+STAGENAME_PRODUCT_Committed_ACH Attach: Instapay Attach:
+STAGENAME_PRODUCT_Committed_ACH Usage:
+STAGENAME_PRODUCT_Committed_CC Attach:
+STAGENAME_PRODUCT_Committed_CC Attach: ACH Attach:
+STAGENAME_PRODUCT_Committed_CC Attach: Instapay Attach:
+STAGENAME_PRODUCT_Committed_CC Usage:
+STAGENAME_PRODUCT_Committed_CC Usage: CC Attach:
+STAGENAME_PRODUCT_Committed_CC Usage: CC Attach: Instapay Attach:
+STAGENAME_PRODUCT_Committed_CC Usage: Instapay Attach:
+STAGENAME_PRODUCT_Committed_Instapay Attach:
+STAGENAME_PRODUCT_Contacted - No Response_CC Usage:
+STAGENAME_PRODUCT_Contacted - No Response_CC Usage: Instapay Attach:
+STAGENAME_PRODUCT_New_CC Attach:
+STAGENAME_PRODUCT_New_CC Usage: Instapay Attach:
+STAGENAME_PRODUCT_New_Instapay Attach:
+STAGENAME_PRODUCT_Pending_CC Attach:
+STAGENAME_PRODUCT_Statements Requested_CC Attach:
+STAGENAME_PRODUCT_Verified_CC Attach:
+STAGENAME_PRODUCT_Verified_CC Usage: Instapay Attach:
+STAGENAME_PRODUCT_Working_CC Attach:
+STAGENAME_PRODUCT_Working_CC Usage: CC Attach:
+STAGENAME_PRODUCT_Working_Instapay Attach:
+STAGENAME_PRODUCT_not called

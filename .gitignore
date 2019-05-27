@@ -1,3 +1,6 @@
 cc_attach_project.zip
 *.csv
 cc_attach_project.csv
+*.joblib
+*.gz
+Amazon/tuning-output
